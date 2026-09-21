@@ -1,0 +1,17 @@
+[Unit]
+Description=NetMonitor — پایش مصرف ترافیک شبکه شرکت
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=decta
+WorkingDirectory=/home/decta/Documents/net_monitor
+ExecStart=/usr/bin/python3 /home/decta/Documents/net_monitor/main.py monitor -u decta -d IT -s mana
+Restart=on-failure
+RestartSec=10
+StandardOutput=null
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,59 @@
+[2026-08-25 08:03:48] START | user=moaba | ssid=mana | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:07:30] START | user=error | ssid=mana | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:08:12] STOP | user=moaba | session=1
+[2026-08-25 08:08:16] START | user=moaba | ssid=mana | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:09:36] STOP | user=moaba | session=3
+[2026-08-25 08:10:30] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:15:45] STOP | user=moaba | session=4
+[2026-08-25 08:31:06] START | user=error | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:31:22] START | user=error | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:32:30] START | user=error | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 08:50:31] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 09:21:12] STOP | user=moaba | session=1
+[2026-08-25 09:21:17] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 09:26:25] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 09:34:25] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 09:43:52] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 09:43:57] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:22:34] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:23:17] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:35:17] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:35:28] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:38:59] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:43:15] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 10:56:37] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 11:07:59] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=10.154.81.151 | iface=Wi-Fi
+[2026-08-25 11:36:18] START | user=moaba | ssid=Mohammadamin's S21 FE | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 11:37:15] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 11:37:56] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 11:44:35] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 11:45:05] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 11:45:29] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 12:21:00] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+[2026-08-25 13:52:08] START | user=moaba | ssid=mana | ip=192.168.1.125 | iface=Wi-Fi
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
+usage: netmonitor [-h] {monitor,report} ...
+netmonitor: error: unrecognized arguments: S21 FE
